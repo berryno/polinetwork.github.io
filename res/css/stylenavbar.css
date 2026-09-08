@@ -391,6 +391,13 @@ header{
     grid-row-end: 3;
 }
 
+.groupRedirectButton,
+.groupRedirectButton:hover {
+    color: var(--mainbackground);
+    text-align: center;
+    text-decoration: none;
+}
+
 .italic{
     font-style:italic
 }
